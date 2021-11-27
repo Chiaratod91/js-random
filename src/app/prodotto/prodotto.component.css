@@ -1,0 +1,133 @@
+/* 
+* Chronicle Display Roman font was substituted for similar fonts from Google Fonts.
+*/
+
+/*body {
+    background-color: #fdf1ec;
+  }
+  
+
+html{
+  background-color: rgb(47, 248, 255);
+  width:80%;
+ margin-left: auto;
+ margin-right: auto;
+ border: 2px ridge rgb(5, 5, 46);
+}
+/*
+
+
+*/
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 40%;
+ 
+ margin-left: auto;
+ margin-right: auto;
+
+ background-color: #12f3b073;
+
+ border-radius: 40px;
+ border: 2px ridge rgb(43, 226, 98);
+}
+
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+  
+img{
+  margin-top: 30px;
+  width: 460px;
+}
+ 
+
+
+  .product-info{
+    background-color: rgb(0, 255, 170)e;
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+    
+  }
+
+  .card-img{
+    display:block;
+  margin:20px auto;
+  text-align:center;
+  }
+
+  
+  .card-img img {
+    border-radius: 7px;
+    border: 2px ridge rgb(3, 10, 68);
+  }
+  
+  .product-text h1 {
+    font-size: 30px;
+    font-family: 'Lato', sans-serif;
+  }
+  
+  .product-text h1,
+  .product-btn p {
+    font-family: 'Lato', sans-serif;
+    font-size:50 px;
+    color:rgb(4, 4, 59);
+    padding-top: 20px;
+  }
+  
+
+  p{
+font-size: 20px;
+font-family: 'Lato', sans-serif;
+
+  }
+  .product-text h2 {
+    font-size: 40px;
+    color: rgb(5, 5, 90);
+    font-family: 'Lato', sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    text-transform: uppercase;
+    color: #0e5f06;
+    letter-spacing: 0.2em;
+  }
+  .product-btn button:hover {
+    background-color: #7ffd44;
+    cursor: pointer;
+    border: 2px solid black;
+
+  }
+
+  .product-btn button {
+  
+    height: 40px;
+    width: 176px;
+    box-sizing: border-box;
+    border: 3px ridge yellowgreen ;
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+    color: black;
+    background-color: #92fdc8;
+    cursor: pointer;
+    border-radius: 30px;
+  }
+
+  .product-btn {
+    height: 150px;
+    width: 200px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 30px;
+  }
+  
+  .product-btn p {
+
+    height: 50px;
+    font-family: 'Lato', sans-serif;
+    font-size: 40px;
+    font-weight: lighter;
+    color: #a70b0b;
+    text-align: center;
+  }
+
